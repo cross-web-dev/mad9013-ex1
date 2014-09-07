@@ -1,12 +1,13 @@
 body{
-    padding: 10%
+    padding: 10%;
 }
 
-figure, figcaption {
-    text-align: center
+figure,
+figcaption {
+    text-align: center;
 }
 
 .list-item-first-columne{
-    display:table-cell;
-    width:200px
+    display: table-cell;
+    width: 200px;
 }
