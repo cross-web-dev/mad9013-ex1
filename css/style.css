@@ -7,7 +7,11 @@ figcaption {
     text-align: center;
 }
 
-.list-item-first-columne{
-    display: table-cell;
+.table-cell{
+        display: table-cell;
+}
+
+.first-column{
+
     width: 200px;
 }
