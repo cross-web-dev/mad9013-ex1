@@ -19,3 +19,11 @@ figcaption {
 
     width: 200px;
 }
+
+.list-moon-landings{
+    font-weight: bold;
+}
+
+.list-item-moon-landings{
+    font-weight: normal;
+}
